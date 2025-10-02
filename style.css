@@ -20,9 +20,10 @@ input[type="text"] {
   display: flex;
   justify-content: center;
   width: 100%;
+  /* line-height: 24px; */
   /* height: 200px; */
   padding-top: 10px;
-  padding-bottom: 10px;
+  /* padding-bottom: 10px; */
   border-color: #303134;
   
 }
